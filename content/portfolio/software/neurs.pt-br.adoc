@@ -1,0 +1,12 @@
+---
+title: "neurs"
+date: 2023-09-20T21:52:15-03:00
+draft: false
+---
+
+https://github.com/wallabra/neurs_project
+
+*neurs* é uma biblioteca minimalista de aprendizado de máquina em Rust. Ela implementa
+redes neurais artificiais básicas (apenas do tipo feed forward), com uma framework simples
+para orquestrar múltiplas redes neurais arbitrariamente (o Assembly), e um algoritmo
+genético especial para treinar essas redes.

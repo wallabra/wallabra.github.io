@@ -1,0 +1,12 @@
+---
+title: "neurs"
+date: 2023-09-20T21:52:15-03:00
+draft: false
+---
+
+https://github.com/wallabra/neurs_project
+
+*neurs* is a minimalistic machine learning library written in Rust. It provides very basic
+artificial neural networks (feed forward only), with a simple framework to mesh multiple of
+those together in arbitrary ways (the Assembly construct), and a special genetic algorithm
+to train these networks.

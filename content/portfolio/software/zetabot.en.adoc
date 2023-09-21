@@ -1,0 +1,12 @@
+---
+title: "ZetaBot"
+date: 2023-09-20T21:56:05-03:00
+draft: false
+---
+
+https://github.com/zeta-group/ZetaBot
+
+is an AI computer player for Doom and some other games, targeting the GZDoom engine.
+
+It supports both cooperative and deathmatch play, including team deathmatch, and uses an advanced
+pathfinding algorithm to navigate levels.
