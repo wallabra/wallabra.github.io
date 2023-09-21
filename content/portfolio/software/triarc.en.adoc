@@ -1,0 +1,19 @@
+---
+title: "Triarc"
+date: 2023-09-20T20:40:40-03:00
+draft: false
+---
+
+https://github.com/wallabra/triarc
+
+*Triarc* is a Python framework for connecting and automating multiple Instant Messaging platforms.
+Its codebase currently includes support for two backends (Discord and IRC), with more planned to be 
+added in the near future, and an easily etensible software architecture.
+
+Basically, it allows the creation of bots, crawlers, and other forms of automation relating to said
+IM platforms. It is a general purpose library, which is versatile and can be used for various projects,
+such as minigames, online lookup utilities, intelligent automatic assistants with support to multiple
+chat platforms, and many more things; or even all at once, thanks to the project's modularity.
+
+This project was last updated on May 2022. Development is currently paused due to a planned rewrite into
+the Rust programming language.

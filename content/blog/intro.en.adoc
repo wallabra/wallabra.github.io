@@ -1,0 +1,11 @@
+---
+title: "Introduction"
+date: 2023-09-20T20:40:26-03:00
+draft: false
+---
+
+I will use this blog to provide updates on projects, assorted opinions, and other stuff.
+
+If you came here for a demonstration of my projects instead, I suggest you take a look at the
+Portfolio tab above.
+

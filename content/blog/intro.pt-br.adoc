@@ -1,0 +1,9 @@
+---
+title: "Introdução"
+date: 2023-09-20T20:40:26-03:00
+draft: false
+---
+
+Este blog vai servir para expor atualizações de projetos, opiniões sortidas, e outros tipos de coisas tais.
+
+Se vieste aqui para uma demonstração de meus projetos, sugiro que olhe no meu Portfólio nas abas acima.

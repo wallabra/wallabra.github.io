@@ -1,0 +1,77 @@
+baseURL = 'https://wallabra.github.io/'
+languageCode = 'pt-br'
+title = 'Gustavo Ramos Rehermann'
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  #homeSubtitle = "Portfólio & Blog"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
+
+  # Metadata mostly used in document's head
+  description = "Website pessoal de Gustavo Rehermann com portfólio, blog, e sobre"
+  keywords = "homepage, portfolio, blog, person"
+  images = [""]
+
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en.params]
+    title = "Gustavo Rehermann"
+    homeSubtitle = "Software Developer, Graphics Designer, Digital Composer"
+    keywords = "portfolio, blog, developer, designer, composer"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "wallabra"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  [languages.pt-br.params]
+    title = "Gustavo Rehermann"
+    homeSubtitle = "Desenvolvedor de Software, Designer Gráfico, Compositor Digital"
+    keywords = "portfolio, blog, developer, designer, composer"
+    readOtherPosts = "Ler mais posts"
+
+    [languages.pt-br.params.logo]
+      logoText = "wallabra"
+      logoHomeLink = "/"
+
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "portfolio"
+    name       = "Software"
+    url        = "/portfolio/Software"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/blog"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/aboutme/aboutme/"
+
+[security.exec]
+allow = ['asciidoctor']

@@ -1,0 +1,22 @@
+---
+title: "Sobre Mim"
+date: 2023-09-20T20:40:20-03:00
+draft: false
+---
+
+Olá! Meu nome é *Gustavo Ramos Rehermann*. Embora meu pseudônimo seja *wallabra*. E nasci em _maio de 2003_.
+
+Tenho várias paixões, mas particularmente pelo _desenvolvimento de software_, _composição de trilhas sonoras_
+(e outros tipos de música digital), e _design gráfico_. E espero que, um dia, eu consiga trabalhar em um
+_estúdio de desenvolvimento de jogos_.
+
+Eu também tenho outros interesses sortidos, como logística, arte, fotografia e filosofia. Eu não resmungo sobre 
+esses em qualquer ocasião - você sempre pode me perguntar diretamente se quiser ouvir a respeito de qualquer forma!
+
+Eu também tenho autismo e TDAH, mas em ambos os casos, um grau leve. Ainda sou bem extrovertido e comunicativo!
+
+Quaisquer opiniões neste site são minhas próprias.
+
+== Contato
+
+Você pode encontrar mais links e opções de contato no meu Linktree: https://linktr.ee/wallabra

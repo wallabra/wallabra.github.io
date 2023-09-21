@@ -1,0 +1,21 @@
+---
+title: "About Me"
+date: 2023-09-20T20:40:20-03:00
+draft: false
+---
+
+Hello! My name is *Gustavo Ramos Rehermann*. Although my pseudonym is *wallabra*. And I was born May of 2003.
+
+I am passionate about a handful of things, but in particular _software development_, _soundtrack composition_,
+and _graphic design_, and I hope to someday make it into a _game development studio_.
+
+I also have other assorted interests, such as logistics, arts, photography and philosophy. You won't hear me
+muse about those willy-nilly - although you can always ask me about these kinds of things directly if you want!
+
+I also have autism and ADHD, but in both cases it is mild. I'm still fairly extroverted and communicative!
+
+Any opinions on this website are my own.
+
+== Contact
+
+You can find more links and contact options on my Linktree: https://linktr.ee/wallabra
