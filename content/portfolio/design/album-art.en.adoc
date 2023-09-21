@@ -10,17 +10,17 @@ In descending order of date.
 
 == Seismic
 
-image:/album-covers/Seismic.png[Seismic album cover]
+image:/album-covers/Seismic_small.png[Seismic album cover]
 
 See the link:/album-covers/Seismic.svg[original SVG file].
 
 
 == Made in Steel
 
-image:/album-covers/Made%20in%20Steel.jpeg[Made in Steel album cover]
+image:/album-covers/Made_in_Steel_small.png[Made in Steel album cover]
 
 
 == Back to the Rail
 
-image:/album-covers/Back%20to%20the%20Rail%20cover%20pal256.png[Back to the Rail album cover]
+image:/album-covers/Back_to_the_Rail_small.png[Back to the Rail album cover]
 
