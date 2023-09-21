@@ -1,0 +1,26 @@
+---
+title: "Album Art"
+date: 2023-09-20T22:09:56-03:00
+draft: false
+---
+
+Já desenhei arte de álbum para alguns projetos musicais e lançamentos meus.
+
+Em ordem descendente de data de lançamento.
+
+== Seismic
+
+image:/album-covers/Seismic.png[Cover do álbum Seismic]
+
+Veja o link:/album-covers/Seismic.svg[arquivo SVG original].
+
+
+== Made in Steel
+
+image:/album-covers/Made%20in%20Steel.jpeg[Cover do álbum Made in Steel]
+
+
+== Back to the Rail
+
+image:/album-covers/Back%20to%20the%20Rail%20cover%20pal256.png[Cover do álbum Back to the Rail]
+
