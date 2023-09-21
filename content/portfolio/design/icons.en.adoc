@@ -1,0 +1,20 @@
+---
+title: "Icons"
+date: 2023-09-20T22:00:45-03:00
+draft: false
+---
+
+I've designed icons and logos for various projects and purposes.
+
+== ZetaBot
+
+See *ZetaBot* under Software Portfolio.
+
+image:https://raw.githubusercontent.com/zeta-group/ZetaBot/master/ZetaBot-icon.svg[title=ZetaBot logo]
+
+== annkh
+
+The precursor to *neurs*, under Software Portfolio.
+
+image:https://raw.githubusercontent.com/wallabra/annkh/master/annkh-icon.svg[title=annkh logo]
+
