@@ -6,6 +6,8 @@ draft: false
 
 Olá! Meu nome é *Gustavo Ramos Rehermann*. Embora meu pseudônimo seja *wallabra*. E nasci em _maio de 2003_.
 
+Sou brasileiro e moro aqui, de Porto Alegre, no Rio Grande do Sul.
+
 Tenho várias paixões, mas particularmente pelo _desenvolvimento de software_, _composição de trilhas sonoras_
 (e outros tipos de música digital), e _design gráfico_. E espero que, um dia, eu consiga trabalhar em um
 _estúdio de desenvolvimento de jogos_.
