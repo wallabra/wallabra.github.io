@@ -62,8 +62,8 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
     identifier = "portfolio"
-    name       = "Software"
-    url        = "/portfolio/Software"
+    name       = "Portfolios"
+    url        = "/portfolio"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
