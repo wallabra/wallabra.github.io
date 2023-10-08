@@ -3,17 +3,19 @@
     padding: 2em;
     background-color: #aaaaff02;
     border-radius: 2px;
-    transition: 300ms linear background-color, 300ms linear margin-top;
+    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top;
     font-style: none;
     border: 2px solid #00000010;
     box-shadow: 3px 3px 1px 1px #0001;
     overflow: hidden;
+    border-top: 0px solid #ffffff00;
 }
 
 .hc-body:hover {
+    border-top: 5px solid #ddddff30;
     background-color: #ffffff03;
     margin-top: 10px;
-    transition: 300ms linear background-color, 300ms linear margin-top;
+    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top;
 }
 
 .hc-type {
