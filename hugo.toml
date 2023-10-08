@@ -93,10 +93,6 @@ paginate     = 10
     url  = "https://matrix.to/#/@wallabra:bark.lgbt"
 
   [[params.social]]
-    name = "xmpp"
-    url  = "xmpp://anonym.im/Gustavo6046"
-
-  [[params.social]]
     name = "discord"
     url  = "https://discord.com/users/208613174394486784"
 
