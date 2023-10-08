@@ -1,3 +1,4 @@
+# vim: noai ts=2:sw=2
 baseURL = 'https://wallabra.github.io/'
 languageCode = 'pt-br'
 title = 'Gustavo Ramos Rehermann'
@@ -26,6 +27,62 @@ paginate     = 10
   description = "Website pessoal de Gustavo Rehermann com portfólio, blog, e sobre"
   keywords = "homepage, portfolio, blog, person"
   images = [""]
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/wallabra6046"
+
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://bark.lgbt/@wallabra"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:rehermann6046@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/wallabra"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/gustavo-rehermann-4215bb65/"
+
+  [[params.social]]
+    name = "reddit"
+    url  = "https://www.reddit.com/user/wallabra"
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@wallabra"
+
+  [[params.social]]
+    name = "twitch"
+    url  = "https://twitch.tv/wallabra"
+
+  [[params.social]]
+    name = "kofi"
+    url  = "https://ko-fi.com/wallabra"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "instagram.com/wallabra6046/"
+
+  [[params.sociala]]
+    name = "gpg"
+    url  = "https://keys.openpgp.org/vks/v1/by-fingerprint/D8A4D1FCDFAD8C7408D95C73BC54C1B15C17148E"
+
+  [[params.social]]
+    name = "matrix"
+    url  = "https://matrix.to/#/@wallabra:bark.lgbt"
+
+  [[params.social]]
+    name = "xmpp"
+    url  = "xmpp://anonym.im/Gustavo6046"
+
+  [[params.social]]
+    name = "lichess"
+    url  = "https://lichess.org/@/Gustavo6046"
 
 [taxonomies]
     category = "categories"
