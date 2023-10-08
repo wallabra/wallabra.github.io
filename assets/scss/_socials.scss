@@ -1,0 +1,12 @@
+#social-icons-row {
+    margin-top: 5%;
+}
+
+.social-icon {
+    transition: 300ms filter linear, 300ms -webkit-filter linear;
+}
+
+.social-icon:hover {
+    filter: brightness(1.5);
+    transition: 300ms filter linear, 300ms -webkit-filter linear;
+}
