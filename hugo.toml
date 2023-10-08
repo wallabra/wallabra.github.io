@@ -28,6 +28,17 @@ paginate     = 10
   keywords = "homepage, portfolio, blog, person"
   images = [""]
 
+  # Highlight cards
+  [[params.highlights]]
+    name = "neurs"
+    url  = "https://github.com/wallabra/neurs_project"
+
+  [[params.highlights]]
+    name = "ZetaBot"
+    url  = "https://github.com/zeta-group/ZetaBot"
+
+
+  # Social icons
   [[params.social]]
     name = "email"
     url  = "mailto:rehermann6046@gmail.com"
@@ -38,7 +49,7 @@ paginate     = 10
 
   [[params.social]]
     name = "instagram"
-    url  = "instagram.com/wallabra6046/"
+    url  = "https://instagram.com/wallabra6046/"
 
   [[params.social]]
     name = "facebook"
@@ -91,6 +102,10 @@ paginate     = 10
   [[params.social]]
     name = "matrix"
     url  = "https://matrix.to/#/@wallabra:bark.lgbt"
+
+  [[params.social]]
+    name = "xmpp"
+    url  = "xmpp://anonym.im/Gustavo6046"
 
   [[params.social]]
     name = "discord"
