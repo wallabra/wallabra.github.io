@@ -1,21 +1,27 @@
 .hc-body {
     margin: 5px;
-    padding: 2em;
+    padding: 1em 2em 1em 2em;
     background-color: #aaaaff02;
     border-radius: 2px;
-    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top;
+    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top, 100ms linear color;
     font-style: none;
     border: 2px solid #00000010;
     box-shadow: 3px 3px 1px 1px #0001;
     overflow: hidden;
+    color: #bbccccc0;
     border-top: 0px solid #ffffff00;
+}
+
+.hc-link * {
+    box-sizing: border-box;
 }
 
 .hc-body:hover {
     border-top: 5px solid #ddddff30;
     background-color: #ffffff03;
     margin-top: 10px;
-    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top;
+    color: #d0ccffff;
+    transition: 300ms linear background-color, 300ms linear margin-top, 150ms linear border-top, 100ms linear color;
 }
 
 .hc-type {
@@ -30,9 +36,12 @@
 
 .hc-head {
     float: inline-start;
-    margin-bottom: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    margin-right: 2em;
     background-color: #00000010;
     padding-top: 5px;
+    padding-bottom: 10px;
     width: 30%;
     box-shadow: 2px 2px #99999903;
 }
