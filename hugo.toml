@@ -115,17 +115,24 @@ paginate     = 10
       sectionTitle = "Portfolio Highlights"
 
     [[languages.en.params.highlights.items]]
-      type        = "Software"
-      name        = "neurs"
-      description = "Minimalistic artificial neural network Rust library"
-      url         = "https://github.com/wallabra/neurs_project"
+      type          = "Software"
+      name          = "neurs"
+      description   = "Minimalistic artificial neural network Rust library"
+      url           = "https://github.com/wallabra/neurs_project"
 
     [[languages.en.params.highlights.items]]
-      type        = "Software"
-      name        = "ZetaBot"
-      description = "AI that plays Doom and navigates a level"
-      url         = "https://github.com/zeta-group/ZetaBot"
-      image       = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+      type          = "Software"
+      name          = "ZetaBot"
+      description   = "AI that plays Doom and navigates a level"
+      url           = "https://github.com/zeta-group/ZetaBot"
+      image         = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+
+    [[languages.en.params.highlights.items]]
+      type          = "Music"
+      name          = "Made in Steel"
+      description   = "Music track assortment release from 2021"
+      url           = "https://audiomack.com/wallabra/album/made-in-steel"
+      image         = "https://assets.audiomack.com/gustavo6046/d9bb5d3a4a7da0a699b6acf993754097f8490fbdc03fd83026cfa77e194febb5.jpeg?type=album&max=true"
 
     # Logo
     [languages.en.params.logo]
@@ -158,6 +165,13 @@ paginate     = 10
       description = "Bot inteligente que joga Doom e navega níveis"
       url         = "https://github.com/zeta-group/ZetaBot"
       image       = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+
+    [[languages.pt-br.params.highlights.items]]
+      type          = "Música"
+      name          = "Made in Steel"
+      description   = "Lançamento de 2021, de faixas de música sortidas"
+      url           = "https://audiomack.com/wallabra/album/made-in-steel"
+      image         = "https://assets.audiomack.com/gustavo6046/d9bb5d3a4a7da0a699b6acf993754097f8490fbdc03fd83026cfa77e194febb5.jpeg?type=album&max=true"
 
     # Logojjjjjjjjjj
     [languages.pt-br.params.logo]
