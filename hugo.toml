@@ -28,16 +28,6 @@ paginate     = 10
   keywords = "homepage, portfolio, blog, person"
   images = [""]
 
-  # Highlight cards
-  [[params.highlights]]
-    name = "neurs"
-    url  = "https://github.com/wallabra/neurs_project"
-
-  [[params.highlights]]
-    name = "ZetaBot"
-    url  = "https://github.com/zeta-group/ZetaBot"
-
-
   # Social icons
   [[params.social]]
     name = "email"
@@ -128,6 +118,24 @@ paginate     = 10
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
+    # Highlight cards
+    [languages.en.params.highlights]
+      sectionTitle = "Portfolio Highlights"
+
+    [[languages.en.params.highlights.items]]
+      type        = "Software"
+      name        = "neurs"
+      description = "Minimalistic artificial neural network Rust library"
+      url         = "https://github.com/wallabra/neurs_project"
+
+    [[languages.en.params.highlights.items]]
+      type        = "Software"
+      name        = "ZetaBot"
+      description = "AI that plays Doom and navigates a level"
+      url         = "https://github.com/zeta-group/ZetaBot"
+      image       = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+
+    # Logo
     [languages.en.params.logo]
       logoText = "wallabra"
       logoHomeLink = "/"
@@ -142,6 +150,24 @@ paginate     = 10
     keywords = "portfolio, blog, developer, designer, composer"
     readOtherPosts = "Ler mais posts"
 
+    # Highlight cards
+    [languages.pt-br.params.highlights]
+      sectionTitle = "Destaques do Portfólio"
+
+    [[languages.pt-br.params.highlights.items]]
+      type        = "Software"
+      name        = "neurs"
+      description = "Biblioteca minimalista de redes neurais artificiais em Rust"
+      url         = "https://github.com/wallabra/neurs_project"
+
+    [[languages.pt-br.params.highlights.items]]
+      type        = "Software"
+      name        = "ZetaBot"
+      description = "Bot inteligente que joga Doom e navega níveis"
+      url         = "https://github.com/zeta-group/ZetaBot"
+      image       = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+
+    # Logojjjjjjjjjj
     [languages.pt-br.params.logo]
       logoText = "wallabra"
       logoHomeLink = "/"

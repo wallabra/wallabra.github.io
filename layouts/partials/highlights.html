@@ -1,0 +1,19 @@
+{{ if . }}
+<div class="hc-section-header">{{ .sectionTitle }}</div>
+<div id="highlights">
+{{ range .items -}}
+    <a href="{{ .url }}">
+        <div class="hc-body">
+            <div class="hc-head">
+                <div class="hc-type">{{ .type }}</div>
+                <div class="hc-title">{{ .name }}</div>
+                {{ if .image }}
+                    <img src="{{ .image }}" />
+                {{- end -}}
+            </div></br>
+            <div class="hc-description">{{ .description }}</div>
+        </div>
+    </a>
+{{- end -}}
+</div>
+{{- end }}
