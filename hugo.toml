@@ -29,20 +29,24 @@ paginate     = 10
   images = [""]
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/wallabra6046"
-
-  [[params.social]]
-    name = "mastodon"
-    url  = "https://bark.lgbt/@wallabra"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:rehermann6046@gmail.com"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/wallabra"
+    name = "twitter"
+    url  = "https://twitter.com/wallabra6046"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "instagram.com/wallabra6046/"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "http://facebook.com/gustavorehermann/"
+
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://bark.lgbt/@wallabra"
 
   [[params.social]]
     name = "linkedin"
@@ -61,16 +65,28 @@ paginate     = 10
     url  = "https://twitch.tv/wallabra"
 
   [[params.social]]
-    name = "kofi"
-    url  = "https://ko-fi.com/wallabra"
+    name = "github"
+    url  = "https://github.com/wallabra"
 
   [[params.social]]
-    name = "instagram"
-    url  = "instagram.com/wallabra6046/"
+    name = "codeberg"
+    url = "https://codeberg.org/wallabra"
+
+  [[params.social]]
+    name = "gitea"
+    url  = "https://gitea.com/wallabra"
+
+  [[params.social]]
+    name = "gitlab"
+    url  = "https://gitlab.com/wallabra"
 
   [[params.sociala]]
     name = "gpg"
     url  = "https://keys.openpgp.org/vks/v1/by-fingerprint/D8A4D1FCDFAD8C7408D95C73BC54C1B15C17148E"
+
+  [[params.social]]
+    name = "kofi"
+    url  = "https://ko-fi.com/wallabra"
 
   [[params.social]]
     name = "matrix"
@@ -79,6 +95,10 @@ paginate     = 10
   [[params.social]]
     name = "xmpp"
     url  = "xmpp://anonym.im/Gustavo6046"
+
+  [[params.social]]
+    name = "discord"
+    url  = "https://discord.com/users/208613174394486784"
 
   [[params.social]]
     name = "lichess"
