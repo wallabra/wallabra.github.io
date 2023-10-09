@@ -137,7 +137,7 @@ paginate     = 10
     [[languages.en.params.highlights.items]]
       type          = "Music"
       name          = "Made in Steel"
-      description   = "Music track assortment release from 2021"
+      description   = "Music track assortment release from 2022"
       url           = "https://audiomack.com/wallabra/album/made-in-steel"
       image         = "https://assets.audiomack.com/gustavo6046/d9bb5d3a4a7da0a699b6acf993754097f8490fbdc03fd83026cfa77e194febb5.jpeg?type=album&max=true"
 
@@ -184,7 +184,7 @@ paginate     = 10
     [[languages.pt-br.params.highlights.items]]
       type          = "Música"
       name          = "Made in Steel"
-      description   = "Lançamento de 2021, de faixas de música sortidas"
+      description   = "Lançamento de 2022, de faixas de música sortidas"
       url           = "https://audiomack.com/wallabra/album/made-in-steel"
       image         = "https://assets.audiomack.com/gustavo6046/d9bb5d3a4a7da0a699b6acf993754097f8490fbdc03fd83026cfa77e194febb5.jpeg?type=album&max=true"
 
