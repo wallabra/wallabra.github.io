@@ -129,6 +129,13 @@ paginate     = 10
 
     [[languages.en.params.highlights.items]]
       type          = "Music"
+      name          = "Seismic"
+      description   = "Music track assortment release from 2023"
+      url           = "https://audiomack.com/wallabra/album/seismic"
+      image         = "https://assets.audiomack.com/wallabra/b313338f84f04b3f4ef83611b2d6cef83689abc7dd1581fafc0a52a5156756c8.jpeg?type=album&max=true"
+
+    [[languages.en.params.highlights.items]]
+      type          = "Music"
       name          = "Made in Steel"
       description   = "Music track assortment release from 2021"
       url           = "https://audiomack.com/wallabra/album/made-in-steel"
@@ -165,6 +172,14 @@ paginate     = 10
       description = "Bot inteligente que joga Doom e navega níveis"
       url         = "https://github.com/zeta-group/ZetaBot"
       image       = "https://github.com/zeta-group/ZetaBot/raw/master/ZetaBot-icon.svg"
+
+    [[languages.pt-br.params.highlights.items]]
+      type          = "Música"
+      name          = "Seismic"
+      description   = "Lançamento de 2023, de faixas de música sortidas"
+      url           = "https://audiomack.com/wallabra/album/seismic"
+      image         = "https://assets.audiomack.com/wallabra/b313338f84f04b3f4ef83611b2d6cef83689abc7dd1581fafc0a52a5156756c8.jpeg?type=album&max=true"
+
 
     [[languages.pt-br.params.highlights.items]]
       type          = "Música"
