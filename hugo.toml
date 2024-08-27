@@ -116,6 +116,12 @@ paginate     = 10
 
     [[languages.en.params.highlights.items]]
       type          = "Software"
+      name          = "Loot & Roam"
+      description   = "Physics-based steampunk pirate naval simulation game (prototype)"
+      url           = "https://wallabra.github.io/proto-lnr"
+      
+    [[languages.en.params.highlights.items]]
+      type          = "Software"
       name          = "neurs"
       description   = "Minimalistic artificial neural network Rust library"
       url           = "https://github.com/wallabra/neurs_project"
