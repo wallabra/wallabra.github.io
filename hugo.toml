@@ -204,9 +204,6 @@ paginate     = 10
     name       = "Loot & Roam"
     url        = "/proto-lnr"
   [[menu.main]]
-    identifier = "spacer"
-    name       = "-"
-  [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolios"
     url        = "/portfolio"
