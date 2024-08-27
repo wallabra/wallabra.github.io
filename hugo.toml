@@ -165,6 +165,12 @@ paginate     = 10
     # Highlight cards
     [languages.pt-br.params.highlights]
       sectionTitle = "Destaques do Portfólio"
+      
+    [[languages.en.params.highlights.items]]
+      type          = "Software"
+      name          = "Loot & Roam"
+      description   = "Jogo de simulação de batalha naval com física, com temática de piratas steampunk (em fase de protótipo)"
+      url           = "https://wallabra.github.io/proto-lnr"
 
     [[languages.pt-br.params.highlights.items]]
       type        = "Software"
