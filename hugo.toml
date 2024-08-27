@@ -196,6 +196,17 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
+    identifier = "livrezine"
+    name       = "LivreZine"
+    url        = "/livrezine"
+  [[menu.main]]
+    identifier = "lnr"
+    name       = "Loot & Roam"
+    url        = "/proto-lnr"
+  [[menu.main]]
+    identifier = "spacer"
+    name       = "-"
+  [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolios"
     url        = "/portfolio"
