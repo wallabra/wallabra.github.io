@@ -198,11 +198,11 @@ paginate     = 10
   [[menu.main]]
     identifier = "livrezine"
     name       = "LivreZine"
-    url        = "/livrezine"
+    url        = "https://wallabra.github.io/livrezine"
   [[menu.main]]
     identifier = "lnr"
     name       = "Loot & Roam"
-    url        = "/proto-lnr"
+    url        = "https://wallabra.github.io/proto-lnr"
   [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolios"
