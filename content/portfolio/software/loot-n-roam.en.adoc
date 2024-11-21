@@ -1,0 +1,17 @@
+---
+title: "Loot & Roam"
+date: 2024-08-27T12:59:18-03:00
+draft: false
+---
+
+= Loot & Roam
+
+https://wallabra.github.io/proto-lnr
+
+A physics-based naval battle simulation game with stealth elements, where you
+invade islands, dodge or destroy enemy ships, steal loot, then escape the
+island to a management screen where you can buy new ships, change parts, resell
+& buy new items, and build your very own steampunk pirate fleet.
+
+Currently in the prototype stage, which can be accessed via the navigation
+bar at the top of the screen, or the above link, right now!

@@ -119,6 +119,12 @@ paginate     = 10
 
     [[languages.en.params.highlights.items]]
       type          = "Software"
+      name          = "Loot & Roam"
+      description   = "Physics-based steampunk pirate naval simulation game (prototype)"
+      url           = "https://wallabra.github.io/proto-lnr"
+      
+    [[languages.en.params.highlights.items]]
+      type          = "Software"
       name          = "neurs"
       description   = "Minimalistic artificial neural network Rust library"
       url           = "https://github.com/wallabra/neurs_project"
@@ -164,6 +170,12 @@ paginate     = 10
     # Highlight cards
     [languages.pt-br.params.highlights]
       sectionTitle = "Destaques do Portfólio"
+      
+    [[languages.pt-br.params.highlights.items]]
+      type          = "Software"
+      name          = "Loot & Roam"
+      description   = "Jogo de simulação de batalha naval com física, com temática de piratas steampunk (em fase de protótipo)"
+      url           = "https://wallabra.github.io/proto-lnr"
 
     [[languages.pt-br.params.highlights.items]]
       type        = "Software"
@@ -200,6 +212,14 @@ paginate     = 10
 
 
   # And you can even create generic menu
+  [[menu.main]]
+    identifier = "livrezine"
+    name       = "LivreZine"
+    url        = "https://wallabra.github.io/livrezine"
+  [[menu.main]]
+    identifier = "lnr"
+    name       = "Loot & Roam"
+    url        = "https://wallabra.github.io/proto-lnr"
   [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolios"
