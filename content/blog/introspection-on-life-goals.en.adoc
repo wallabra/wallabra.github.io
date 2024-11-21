@@ -1,0 +1,84 @@
+---
+title: "Introspection on Life Goals"
+date: 2024-11-21T02:58:45-03:00
+draft: false
+---
+
+== Prelude
+
+So I was watching someone else's video about how they perceive originality to be decreasing in the Minecraft YouTube
+space. My thoughts were that people stress about originality, and that it's OK to be derivative if you add your own spin
+to it, like a Minecraft let's play series where each episode also contains little logs of things you did in real life or
+on other projects on that given day. Pretty much little retellings.
+
+And while I wrote about that last idea, I realized that it tapped into something deeper in me. It seems, indeed, that
+that particular example wasn't just related to Minecraft content in itself; it probably stems from a deeper feeling in
+me, one of isolation, and about wanting to share my world with the wider world of people. Maybe it cast light on
+some ways I've thought about how to do it, that I've wanted, but with which I've had friction and ultimately laid to
+sleep in the sea of defeated ideas. It made me realize, though, that I should think about these things way more, since
+I've felt a bit deprived of well-defined goals (as opposed to general direcitons, like "get a good job" and whatnot).
+
+== Drives and challenges
+
+Let me elaborate. One of the things I most want to do in the near future is to make a bit of a log of the cool things I
+do, to share in video form, like maybe through YouTube and whatnot. Not just my programming projects, but also my little
+gaming adventures, like all sorts of mod combinations in Doom or Unreal Tournament, or my Mindustry run, and so on.
+
+=== Practicability
+
+But one thing that's kind of hodling me back in that department is hardware. I can play games just fine, but recording
+them tends to make them run slower. Besides, I only have 4 GB of memory. For games like Minecraft, which involve a
+heavier use of memory, I can't fit them _and_ OBS at the same time. And if the game runs slow while recording, imagine
+the final recording itself; I don't want to have any more piss-poor quality recordings on my channel anymore.
+
+Another thing is that Linux, or more specifically Wayland, can make recording more difficult, or much more taxing on my
+hardware, depending on the particular method. For context, Wayland
+https://github.com/emersion/xdg-desktop-portal-wlr/issues/107[doesn't really like to *publicly* expose the surfaces of its client applications].
+Which of course is a completely fair security consideration, but it does differ
+from every other major display server (including Linux's own X.org, which is the traditional and still most widely used
+display server, as well as Windows). This means that you have to explicitly expose a window to be recorded by another
+application, which is extra setup and often ends up compromising on performance to the point that most games are
+simply unplayable.
+
+So I guess my mental intuition or subconscious, having realized these difficulties, has felt like it might not want to
+deal with that, and instead is pivoting towards just working on my projects and showing them to IRL friends or trying
+to get people online to try them, which usually involves a link, which is why it is important for me to make my projects
+work on the Web (like Loot & Roam's current prototype). This has made me a little anxious about working on projects
+that might not port as seamlessly into a web or mobile application, even though I am a PC mojo and would absolutely
+love if everyone and their dog owned a PC too. (Maybe one day society will evolve and the grace of the PC will equally
+touch everyone!)
+
+=== Finances
+
+Additionally, as I've alluded to earlier, I'm quite worried about getting a job soon enough; preferably a much better
+wage than what I had during my internship, so that I can save up and _maybe_ get a better PC (and still have money left
+to go out with friends or just enjoy the city's niceties). This would help deal with some of the performance issues as I
+get a computer that is actually upgradeable, built from parts I pick and buy myself.
+
+Having burned through my internship cash so quickly made me realize how volatile money can be when you're not actively
+reining yourself in at every step (obviously not at all the worst kind of task you can assign to someone with ADHD!
+/sarcasm). So I'm thinking about using a financial app named Oinkoin that I've got on my phone to help with that - it's
+open source and the simplest thing I've found yet, the ones I found on desktop in the Arch Linux repositories are a bit
+overcomplicated, especially GNU Cash. But I would say that the situation doesn't boil down to financial management. The
+world really isn't what it used to be, prices have hiked, wages have stagnated, buying power went down, and it really is
+a whole lot harder to make the most out of your money than it used to be. I'm not going to delve further into this
+tangent, I'm just saying this is another reason why getting a job with decent pay is one of my major concerns.
+
+== In Conclusion
+
+Either way, the end goal isn't to have money. Financial stability would be nice, and future me won't bash present me
+as hard if I at least leave him a decent income to work with to deal with whatever problems he'll have in that future.
+However, it will unavoidably be important means to many ends. No, my goal, at least for now, is to work on my projects,
+realize my creative ideas into reality, and make wide social circles that I can share these ideas with, not only of
+online friends, but real life friends too. These are my personal goals, not my political goals (which I probably won't
+get into in this personal blog, I should probably make a separate website to ramble about politics), but they're goals
+alright. And maybe there are lots of roads to them, but I'll see if I can find the ones for which I have the best
+predisposition given the skills and experience I already have. In the end, only time will tell.
+
+Oh, and by the way. I've been elusively talking about my creative projects here. If you're wondering about what kinds
+of creative projects I like to tinker with (and you have a device with keyboard and mouse), check out
+https://wallabra.github.io/proto-lnr[Loot & Roam]! At least its current prototype stage, but it's already quite
+playable, and fun to mess around with. See if you can figure it out on your own! (There's a Help screen accessible from
+the main menu if you need some pointers.) That's the kind of thing I really like; hopefully I'll be able to work on
+more projects like that in my future. (Even though I don't really think my future is limited to being about game
+development. Sheesh!)

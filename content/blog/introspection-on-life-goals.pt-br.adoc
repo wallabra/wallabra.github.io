@@ -1,0 +1,95 @@
+---
+title: "Introspeção sobre meus Objetivos Pessoais"
+date: 2024-11-21T04:15:45-03:00
+draft: false
+---
+
+== Prelúdio
+
+Eu estava assistindo um vídeo de outra pessoa sobre como ela percebe um declínio na originalidade no espaço do YouTube
+relacionado a Minecraft. Naquele momento eu estava pensando, comentando até, que as pessoas se preocupam demasiado com
+originalidade, e que não faz mal ser derivativo desde que você adicione um toque pessoal. Imagine por exemplo uma série
+de Let's Plays de Minecraft, onde cada episódio inclui recontagens de coisas que o autor fez na vida real, ou outros
+projetos interessantes em que trabalhou naquele dia e a respeito de quais contar. Uma cronicagem, praticamente.
+
+Enquanto eu escrevia esse comentário, quando cheguei nessa última idea, um momento eureca ressoou profundamente por
+mim. Realmente parecia que esse exemplo da cronicagem não era simplesmente uma ideia relacionada puramente a vídeos de
+Minecraft; talvez se tratava de um reflexo de um sentimento mais profundo, talvez um de isolamento, alienação, uma
+vontade palpável de compartilhar meu mundo com o resto do mundo; e também uma derivação de outras ideias que já tive
+sobre como fazer isso, mas que adormeciam num mar de memórias derrotadas. Me fez perceber que, a cada dia que passa,
+tenho me sentido mais e mais deprivade de objetivos bem-definidos (a contrastar com direções gerais, como "conseguir
+um bom emprego").
+
+== Anseios e desafios
+
+Permita-me elaborar. Uma das coisas que eu mais quero fazer no meu futuro próximo é meio que um registro das coisas
+legais que faço; compartilhar minhas experiências em vídeo, talvez através do YouTube ou coisa assim. Não apenas
+projetos de programação, mas também minhas pequenas aventuras em gaming, como as inúmeras combinações de mods de Doom
+e de Minecraft e de Unreal Tournament com as quais invoco o caos absoluto, ou minha atual run de Mindustry; por aí vai.
+
+=== A praticalidade
+
+Uma das coisas que têm me prevenido e atrasado nessa questão é hardware. Ele é mais que suficiente para rodar vários
+jogos, mas gravá-los tende a piorar muito a performance. Tenho apenas 4 GB de memória RAM; para jogos como o Minecraft,
+que já consomem bastante memória RAM, é praticamente impossível fazê-los caber simultaneamente com o OBS. E se o jogo
+está lento enquanto é gravado, a gravação vai estar ainda mais travada; não quero mais nem cogitar tolerar gravações de
+tal péssima qualidade em meu canal.
+
+Outra questão é que o Linux, ou mais especificamente o Wayland, pode tornar a gravação de janelas mais difícil, ou
+exigir gambiarras que pesam na performance, a depender do método. O Wayland
+https://github.com/emersion/xdg-desktop-portal-wlr/issues/107[não gosta de expor a _surface_ dos aplicativos clientes publicamente.]
+Eu até entendo a justificativa de segurança, mas como contraria o padrão da grande maioria dos demais sistemas de
+janelamento (incluindo o X.org, que é o servidor de janelas tradicional do Linux e provavelmente ainda é o mais
+amplamente usado, e também o Windows; ambos exemplos que expṍem as superfícies de suas janelas para qualquer
+aplicação), essa quebra do padrão acaba tornando o Wayland incompatível com a maior parte das workflows de gravação de
+janela ou de jogo pré-existentes. Como eu estou usando um compositor de janelas Wayland atualmente, isso é muito
+relevante para mim, porque significa que preciso de gambiarras para gravar, normalmente alguma forma de expor uma
+janela explicitamente, o que acaba sendo mais esforço e muitas vezes resulta numa performance completamente
+impraticável.
+
+Então, suponho que minha intuição ou meu subconsciente ou seja o que for, percebendo essas dificuldades, sentiu que
+talvez prefira não mexer com esses problemas; ao invés disso, tenho tentado focar em meus projetos atuais, mostrando-os
+ao vivo para amigos na vida real, ou tentando convencer amigos e estranhos na Internet a testemunhá-los, o que
+normalmente envolve um link. Isso me desagradou de trabalhar em projetos que talvez não sejam demonstráveis como
+aplicativos Web ou mobile, mesmo que eu outrora adoraria focar mais em projetos de PC (especialmente se mais pessoas
+tivessem um! Talvez um dia a magia do PC alcance a todos os humanos com mais igualdade e acesso universal).
+
+=== O financeiro
+
+Além do mais, como antes aludi, estou bem preocupado em conseguir um emprego, antes cedo do que tarde, e de preferência
+um com salário bem superior ao do estágio que eu tive. Assim, posso juntar uma grana e _talvez_ conseguir um computador
+melhor (e ainda ter dinheiro sobrando pra sair com amigos, ou simplesmente indagar nos prazeres da cidade). Uma boa
+renda ajudaria bastante com alguns desses problemas de performance, afinal a solução mais fácil é ter um PC mais
+potente! (Pra quem tem dinheiro.) E isso vai ser possível quando eu finalmente conseguir montar meu próprio PC com
+partes que eu mesmo escolher e comprar, um PC expansível.
+
+Como eu já gastei todo meu dinheiro do estágio, percebi que o dinheiro pode ser muito volátil quando você não está
+proativamente se segurando em *cada passinho sequer* (é óbvio que se segurar é uma das coisas mais fáceis do mundo pra
+quem tem TDAH! /sarcasmo). Então tô pensando em usar esse aplicativo financeiro chamado Oinkoin que instalei no meu
+celular. Ele é open source, e a solução mais simples e minimalista que já encontrei pra gerenciar minhas finanças.
+(Sim, eu já montei uma planilha de finanças pessoais. Chegou uma hora que não aguentei mais.) Ainda assim, eu diria
+que a situação não se reduz a gestão financeira, a educação financeira. O mundo já não é mais o que era 20 anos atrás;
+preços explodiram, salários estagnaram, o poder de compra caiu de um penhasco, e realmente é bem mais difícil fazer
+seu dinheiro valer cada centavo do que costumava ser. Eu não vou entrar mais a fundo nesse tangente; o principal é que
+isso torna a minha preocupação de conseguir um emprego com um salário decente ainda mais urgente na minha cabeça.
+
+== Em suma
+
+De qualquer forma, o dinheiro não é meu objetivo principal. Estabilidade financeira sempre é bom; meu eu futuro ficaria
+bem menos p...asmo com o meu eu presente se eu conseguir deixar uma renda passível com a qual meu eu futuro puder
+contar para resolvar meus problemas desse futuro. Mas não, meu objetivo, por enquanto pelo menos, é poder trabalhar nos
+meus projetos, realizar minhas ideias criativas, e formar círculos sociais para com quais compartilhar toda essa
+cor e criatividade, constituindo não apenas amizades on-line, mas também de carne e osso. Esses são objetivos pessoais,
+não objetivos políticos (estes engendram quase um mundo à parte, eu não cogitaria misturá-lo com o conteúdo deste site
+que é quase um webfólio; talvez eu monte um website separado para sobre qual largar minhas opiniões políticas). Mas
+ainda assim são bons objetivos. E podem haver várias trilhas a seguir para alcançá-los, mas talvez eu consiga encontrar
+a trilha que mais seja compatível com minhas predisposições e habilidades e experiência. No final das contas, apenas o
+tempo dirá. 
+
+Ah, aliás! Ando falando bastante sobre projetos criativos. Que elusivo! Se você está se perguntando em que tipo de
+projetos criativos eu gosto de me empenhar (e você tiver à sua disposição um dispositivo com mouse e teclado), dê uma
+olhada no https://wallabra.github.io/proto-lnr[Loot & Roam]! Bom, sua fase prototipal atual. Mas já dá pra jogar, e é
+bem divertido! Tem bastante coisa pra tentar, e várias situações e peripécias pelas quais passar! Vẽ se você consegue
+aprender a jogar sozinho! (Tem uma tela de Ajuda, acessível do menu principal, se você precisar de orientação.) Esse
+é o tipo de projeto que mais me encanta. Espero poder trabalhar em mais projetos assim no meu futuro. (Ainda assim,
+não acho que meu futuro se limite a desenvolvimento de jogos. Quer dizer, pelamor!)
