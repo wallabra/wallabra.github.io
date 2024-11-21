@@ -1,6 +1,7 @@
 # vim: noai ts=2:sw=2
 baseURL = 'https://wallabra.github.io/'
 languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
 title = 'Gustavo Ramos Rehermann'
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -104,6 +105,8 @@ paginate     = 10
 
 [languages]
   [languages.en.params]
+    languageCode = "en-US"
+    languageName = "English"
     title = "Gustavo Rehermann"
     homeSubtitle = "Software Developer, Graphics Designer, Digital Composer"
     keywords = "portfolio, blog, developer, designer, composer"
@@ -151,6 +154,8 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   [languages.pt-br.params]
+    languageCode = "pt-BR"
+    languageName = "Português"
     title = "Gustavo Rehermann"
     homeSubtitle = "Desenvolvedor de Software, Designer Gráfico, Compositor Digital"
     keywords = "portfolio, blog, developer, designer, composer"
